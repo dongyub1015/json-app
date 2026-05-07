@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "홍길동",
+    "age": 30,
+    "email": "hong@example.com",
+    "city": "서울"
+  },
+  {
+    "id": 2,
+    "name": "김철수",
+    "age": 25,
+    "email": "kim@example.com",
+    "city": "부산"
+  },
+  {
+    "id": 3,
+    "name": "이영희",
+    "age": 28,
+    "email": "lee@example.com",
+    "city": "인천"
+  },
+  {
+    "id": 4,
+    "name": "최동엽",
+    "age": 34,
+    "email": "dysoft.choi@samsung.com",
+    "city": "서울"
+  }
+]
